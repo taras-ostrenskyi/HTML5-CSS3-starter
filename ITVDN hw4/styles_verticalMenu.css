@@ -1,0 +1,15 @@
+.main{
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.points{
+    background-color: grey;    
+    color: blue;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

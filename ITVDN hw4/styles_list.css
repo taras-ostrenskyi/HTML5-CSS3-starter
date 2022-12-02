@@ -1,0 +1,12 @@
+.top_point{
+    border: 2px solid grey;
+}
+
+div{
+    background-color: lightgrey;
+    color: black;
+    padding: 10px;
+    border-right: 2px solid grey;
+    border-bottom: 2px solid grey;
+    border-left: 2px solid grey;
+}

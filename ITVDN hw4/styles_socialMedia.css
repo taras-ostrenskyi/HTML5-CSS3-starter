@@ -1,0 +1,31 @@
+.facebook{
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.instagram{
+    background-color: pink;
+    height: 60px;
+    width: 60px;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.twitter{
+    background-color: aqua;
+    height: 60px;
+    width: 60px;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.youtube{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    padding: 13px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,26 @@
+p{
+  padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;  
+}
+
+.success{
+    background-color: aquamarine;
+    
+    color: white;
+}
+
+.information{
+    background-color: blue;
+    color: white;
+}
+
+.warning{
+    background-color: yellow;
+    color: white;
+}
+
+.danger{
+    background-color: red;
+    color: white;
+}
